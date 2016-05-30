@@ -1,1 +1,1 @@
-This file handles the communication between Apio OS and Apio Pi Saver
+This file handles the communication between the Raspberry Pi GPIO and the Apio Pi Saver (www.apio.cc/store)
